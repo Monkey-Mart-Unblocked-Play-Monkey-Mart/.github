@@ -11,7 +11,6 @@ Welcome to the world of **Monkey Mart**—a fun and addictive management game wh
 **Monkey Mart** is a simulation game where you manage a bustling mart as an entrepreneurial monkey. Start small with basic items like bananas and steadily grow your business by unlocking new products, upgrading shelves, and serving customers efficiently. Its vibrant visuals and simple mechanics make it a delightful gaming experience.  
 
 ---
-<head><meta name="google-site-verification" content="kQkMQ6ywh7zmiJWjxExQVnc0cSdpN-nIz_UfOr5vB0Q" /></head>
 
 
 ## Gameplay Features 🛒  
